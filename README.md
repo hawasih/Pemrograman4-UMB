@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td><img src="poto/pwsalah.png" width="250"/></td>
-    <td><img src="poto/pwgagal.png" width="250"/></td>
+    <td><img src="poto/loggagal.png" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
