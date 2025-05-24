@@ -1,7 +1,7 @@
 # 📱 Android Login & Register App with SQLite
 
 ## Nama   : Siti Hawasih
-## NIM    : 220220017
+## NIM    : 
 ## Prodi  : Sistem Informasi
 
 ---
@@ -64,22 +64,22 @@
     <td><strong>Tampilan Register</strong></td>
   </tr>
   <tr>
-    <td><img src="Gambar/Login.png" width="250"/></td>
-    <td><img src="Gambar/Register.png" width="250"/></td>
+    <td><img src="poto/log.png" width="250"/></td>
+    <td><img src="poto/reg.png" width="250"/></td>
   </tr>
   <tr>
     <td><strong>Validasi Login</strong></td>
     <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="Gambar/PWsalah.png" width="250"/></td>
-    <td><img src="Gambar/pw_kurang.png" width="250"/></td>
+    <td><img src="poto/loggagal.png" width="250"/></td>
+    <td><img src="poto/pwkurang.png" width="250"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Berhasil Login</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="Gambar/Login_berhasil.png" width="300"/></td>
+    <td colspan="2" align="center"><img src="poto/logberhasil.png" width="300"/></td>
   </tr>
 </table>
 
