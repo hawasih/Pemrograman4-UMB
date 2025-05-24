@@ -1,7 +1,7 @@
 # 📱 Android Login & Register App with SQLite
 
 ## Nama   : Siti Hawasih
-## NIM    : 
+## NIM    : 220220018
 ## Prodi  : Sistem Informasi
 
 ---
@@ -72,7 +72,7 @@
     <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="poto/loggagal.png" width="250"/></td>
+    <td><img src="poto/pwsalah.png" width="250"/></td>
     <td><img src="poto/pwkurang.png" width="250"/></td>
   </tr>
   <tr>
